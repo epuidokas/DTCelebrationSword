@@ -1,0 +1,9 @@
+name: DTCelebrationSword
+main: com.DarkTide.epuidokas.DTCelebrationSword.DTCelebrationSwordPlugin
+version: 0.1
+author: Eric Puidokas
+website: www.puidokas.com
+description: Bargraphics' celebration sword
+commands:
+    celebrate:
+        description: Start using the celebration sword
